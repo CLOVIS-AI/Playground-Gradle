@@ -32,7 +32,7 @@ spine = "0.10.1"
 ktmongo = "0.29.1"
 
 # https://gitlab.com/opensavvy/telegram-bot/-/releases
-telegram-bot = "0.2.0"
+telegram-bot = "0.3.1"
 
 # https://github.com/JetBrains/java-annotations/releases
 jetbrains-annotations = "26.1.0"
